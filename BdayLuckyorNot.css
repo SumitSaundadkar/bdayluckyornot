@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    text-align: center;
+   
+    padding-top: 7rem;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    display: block;
+    margin-top: 2rem;
+    padding-top: 20px;
+    font-size: 28px;
+    color:whitesmoke;
+    text-shadow:  black 2px 2px 2px;
+    font-family:cursive;
+    background-color: rgb(73, 11, 75);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#DOB{
+    display: block;
+    margin-left: 43%;
+    margin-top: 1rem;
+    width: 15%;
+    height: 5%;
+    
+    border-radius: 0.3rem;
+    text-align: center;
+    border-color: gray;
+    
+    
+}
+#luckynumber{
+    display: block;
+    margin-left: 43%;
+    margin-top: 1rem;
+    width: 15%;
+    height: 5%;
+    border-radius: 0.3rem;
+    text-align: center;
+    border-color: gray;
+
+}
+#Btn{
+    height:45px;
+    width: 90px;
+   margin-top: 20px;
+   border-radius: 3rem;
+   font-size: 25px;
+   font-family: monospace;
+   border-color: gray;
+   color: teal;
+   background-color: pink;
+    
+}
+.output{
+    text-align: center;
+}
